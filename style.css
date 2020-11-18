@@ -186,7 +186,7 @@ body {
   width: 640px;
   height: 640px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .intro .container div {
@@ -286,7 +286,7 @@ body {
   width: 448px;
   height: 256px;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 30px;
 }
 
 .projects p {
